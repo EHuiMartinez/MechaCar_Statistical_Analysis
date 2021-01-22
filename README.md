@@ -19,3 +19,15 @@
 ![Deliverable2_total_summary.png](Deliverable2_total_summary.png)
 
 ![Deliverable2_lot_summary.png](Deliverable2_lot_summary.png)
+
+## T-Tests on Suspension Coils
+
+briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+![Deliverable3_ttest_total.png](Deliverable3_ttest_total.png)
+
+![Deliverable3_ttest1.png](Deliverable3_ttest1.png)
+
+![Deliverable3_ttest2.png](Deliverable3_ttest2.png)
+
+![Deliverable3_ttest3.png](Deliverable3_ttest3.png)
