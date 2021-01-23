@@ -57,7 +57,7 @@ T-test of Lot #3:
 
 Using the production data analysis for the MechaCar in predicting mpg, we can see there is a statistical relationship between the mpg and the length of the vehicle.  Below plot shows the longer the vehicle length, the higher mpg or more distance in miles the car can travel per gallon of fuel.  Fuel efficiency is an  important factor for consumers when selecting a car for purchase. 
 
-![MechaCar_mpg_vehicle_length](MechaCar_mpg_vehicle_length)
+![MechaCar_mpg_vehicle_length.png](MechaCar_mpg_vehicle_length.png)
 
 To compare the MechaCar with cars from other manufacturers, a new statistical study design will consider comparing with competitor vehicles of similar average length with their fuel efficiency in mpg.  
 
