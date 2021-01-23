@@ -55,13 +55,15 @@ T-test of Lot #3:
 
 ## Study Design: MechaCar vs Competition
 
-An additional design for a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+Using the production data analysis for the MechaCar in predicting mpg, we can see there is a statistical relationship between the mpg and the length of the vehicle.  Below plot shows the longer the vehicle length, the higher mpg or more distance in miles the car can travel per gallon of fuel.  Fuel efficiency is an  important factor for consumers when selecting a car for purchase. 
 
+![MechaCar_mpg_vehicle_length](MechaCar_mpg_vehicle_length)
 
---What metric or metrics are you going to test?
+To compare the MechaCar with cars from other manufacturers, a new statistical study design will consider comparing with competitor vehicles of similar average length with their fuel efficiency in mpg.  
 
---What is the null hypothesis or alternative hypothesis?
+Hypothesis:
+H0 = If the length of the MechaCar and the competitors are similar, then the mpg increases, indicating better fuel efficiency.
 
---What statistical test would you use to test the hypothesis? And why?
+Ha = If the length of the MechaCar and the competitors are similar, then the mpg will not increase and does not indicate better fuel efficiency.
 
---What data is needed to run the statistical test?
+Using R, first summarize the MechaCar data to find the mean for vehicle length and mpg.  The study would require obtaining current vehicle models' data that has information on vehicle length and mpg, then filter or extract vehicles that are of similar average length as MechaCar.  Once this group of vehicles with simlar lengths are extracted, use ANOVA test to compare this competitor group with MechaCar's average mpg for fuel efficiency.  Using the p-value of the result, we can gain insight in how MechaCar's performance compares in mpg for fuel efficiency with other competitors in the market.
