@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar_Statistical_Analysis:car:
 
 This analysis uses R to perform statistical studies on production data of a prototype car, the "MechaCar".  The production has been blocked from manufacturing progress and this analysis of the production data is aimed to provide insights to the manufacturing team.
 
